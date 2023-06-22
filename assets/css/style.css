@@ -17,3 +17,27 @@ display: flex;
 justify-content: space-between;
 
 }
+
+.menu-items{
+
+/* quitar decoracion de link */
+list-style: none;
+
+
+}
+
+.menu-link{
+    color: #808080;
+    /* espacio entre letras del menu */
+    margin-right: 1.25rem;
+/* decoracion de link */
+    text-decoration: none;
+}
+
+.menu-link.activo{
+color: #333333;
+}
+
+.menu-link:hover{
+    text-decoration: underline;
+}
