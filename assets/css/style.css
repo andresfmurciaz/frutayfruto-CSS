@@ -10,7 +10,7 @@
 
 }
 
-.menu-lista{
+.menu__lista{
 
 display: flex;
 
@@ -18,7 +18,7 @@ justify-content: space-between;
 
 }
 
-.menu-items{
+.menu__items{
 
 /* quitar decoracion de link */
 list-style: none;
@@ -26,7 +26,7 @@ list-style: none;
 
 }
 
-.menu-link{
+.menu__link{
     color: #808080;
     /* espacio entre letras del menu */
     margin-right: 1.25rem;
@@ -34,10 +34,10 @@ list-style: none;
     text-decoration: none;
 }
 
-.menu-link.activo{
+.menu__link.activo{
 color: #333333;
 }
 
-.menu-link:hover{
+.menu__link:hover{
     text-decoration: underline;
 }
