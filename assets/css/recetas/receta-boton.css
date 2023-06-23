@@ -1,0 +1,18 @@
+.receta__boton{
+    background: #da2b1f;
+    border: none;
+    border-radius: 5px;
+    color: #fdfdfd;
+    padding: 1rem;
+    /* al pasar el cursor es menos agresivo la animacion de cambio de color a rojo mas oscuro */
+transition: all .1s ease-in-out;
+}
+
+.receta__boton:hover{
+/* transforma la fecha en manito para ver que se puede dar clink */
+    cursor: pointer;
+    /* cuando el cursor de pone por el boton se pone oscuro */
+    background: #9f1010;
+
+
+}

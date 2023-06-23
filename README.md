@@ -12,4 +12,8 @@ Agregamos una nueva carpeta llamada menú y en ella añadimos los nuevos archivo
 Trasladamos a cada archivo los estilos correspondientes basados en nuestros selectores de clases.
 Construimos en el archivo index.html el código para la sección Banner y Sobre.
 Agregamos las carpeta y archivos CSS correspondientes para aplicar los estilos en estas nuevas dos secciones del proyecto.
+Organización y estructura de archivos.css de la sección recetas. Agregamos los archivos y carpetas necesarios para aplicar en ellos los estilos para esta nueva sección de recetas, continuando así con la organización de nuestro código aplicando el Atomic Design como lo hicimos en las clases anteriores.
+Repasamos la propiedad flex-wrap de CSS.
+Aplicamos transiciones en los botones de la sección recetas, resaltando estos elementos y creando así una animación agradable y efectiva para mejorar la interactividad de la página.
+Crear y mantener archivos más pequeños.
 
