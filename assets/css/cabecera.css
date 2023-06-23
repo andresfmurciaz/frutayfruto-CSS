@@ -1,0 +1,11 @@
+.cabecera{
+
+    align-items: center;
+    background: #f9f9f9;
+    display: flex;
+    justify-content: space-between;
+/* para separar el logo del menu del navegador     */
+    padding-left: 2rem;
+    padding-right: 2rem;
+
+}
