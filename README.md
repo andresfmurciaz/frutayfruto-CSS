@@ -16,4 +16,8 @@ Organización y estructura de archivos.css de la sección recetas. Agregamos los
 Repasamos la propiedad flex-wrap de CSS.
 Aplicamos transiciones en los botones de la sección recetas, resaltando estos elementos y creando así una animación agradable y efectiva para mejorar la interactividad de la página.
 Crear y mantener archivos más pequeños.
-
+Buenas prácticas para trabajar con imágenes.
+Que son imágenes ilustrativas.
+Cuando una imagen debe estar referenciada dentro de nuestro HTML y cuando debe ser agregada desde el archivo de estilos en el CSS.
+Buenas prácticas con la importación de imágenes.
+Propiedades abreviadas “Shorthand” en CSS.
