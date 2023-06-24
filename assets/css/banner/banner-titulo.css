@@ -3,8 +3,6 @@
 color: #fdfdfd;
 /* le da el tipo de letra */
 font-family: Pacifico,cursive;
-/* tamaño de la letra */
-font-size: 5.0625rem;
 
 
 position: absolute;
@@ -17,4 +15,20 @@ text-align: center;
 /* La combinación de left: 50%; y top: 50%; junto con transform: translate(-50%,-50%); logra que el elemento esté centrado tanto horizontal como verticalmente dentro de su contenedor. */
 transform: translate(-50%,-50%);
 width: 100%;
+}
+
+
+@media screen and (min-width:0) {
+    .banner__titulo{
+        font-size: 3rem;
+    }
+}
+
+
+@media screen and (min-width:768px) {
+    .banner__titulo{
+        /* tamaño de la letra */
+font-size: 5.0625rem;
+
+    }
 }
