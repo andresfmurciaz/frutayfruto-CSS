@@ -14,7 +14,7 @@ Este proyecto se centra en el desarrollo de habilidades fundamentales en el uso 
 
 ## Enlace de Implementación (Git Pages)
 
-La aplicación está disponible en línea a través de Git Pages. Puedes acceder [aquí](https://andresfmurciaz.github.io/frutayfruto/).
+La aplicación está disponible en línea a través de Git Pages. Puedes acceder [aquí](https://andresfmurciaz.github.io/frutayfruto-CSS/).
 
 
 ---
